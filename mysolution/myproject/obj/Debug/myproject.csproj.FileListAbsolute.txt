@@ -1,0 +1,7 @@
+c:\users\admin\documents\visual studio 2015\Projects\mysolution\myproject\bin\Debug\myproject.dll
+c:\users\admin\documents\visual studio 2015\Projects\mysolution\myproject\bin\Debug\myproject.pdb
+c:\users\admin\documents\visual studio 2015\Projects\mysolution\myproject\bin\Debug\robocode.dll
+c:\users\admin\documents\visual studio 2015\Projects\mysolution\myproject\bin\Debug\robocode.xml
+c:\users\admin\documents\visual studio 2015\Projects\mysolution\myproject\obj\Debug\myproject.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\mysolution\myproject\obj\Debug\myproject.dll
+c:\users\admin\documents\visual studio 2015\Projects\mysolution\myproject\obj\Debug\myproject.pdb
